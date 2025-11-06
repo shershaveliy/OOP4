@@ -1,0 +1,1 @@
+/usr/local/bin/c++  -fconcepts CMakeFiles/tests.dir/tests.cpp.o -o tests  ../lib/libgtest_main.a ../lib/libgmock.a ../lib/libgtest.a 
