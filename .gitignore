@@ -1,0 +1,15 @@
+
+# Игнорировать vcpkg
+vcpkg/
+build/
+test/
+win.txt
+
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
